@@ -1,0 +1,41 @@
+{
+  "" : {
+    "const-values" : "/Users/kartik/Documents/water-reminder/build/Build/Intermediates.noindex/water-reminder.build/Release/water-reminder.build/Objects-normal/arm64/water-reminder-primary.swiftconstvalues",
+    "dependencies" : "/Users/kartik/Documents/water-reminder/build/Build/Intermediates.noindex/water-reminder.build/Release/water-reminder.build/Objects-normal/arm64/water-reminder-primary.d",
+    "diagnostics" : "/Users/kartik/Documents/water-reminder/build/Build/Intermediates.noindex/water-reminder.build/Release/water-reminder.build/Objects-normal/arm64/water-reminder-primary.dia",
+    "emit-module-dependencies" : "/Users/kartik/Documents/water-reminder/build/Build/Intermediates.noindex/water-reminder.build/Release/water-reminder.build/Objects-normal/arm64/water-reminder-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/kartik/Documents/water-reminder/build/Build/Intermediates.noindex/water-reminder.build/Release/water-reminder.build/Objects-normal/arm64/water-reminder-primary-emit-module.dia",
+    "pch" : "/Users/kartik/Documents/water-reminder/build/Build/Intermediates.noindex/water-reminder.build/Release/water-reminder.build/Objects-normal/arm64/water-reminder-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/kartik/Documents/water-reminder/build/Build/Intermediates.noindex/water-reminder.build/Release/water-reminder.build/Objects-normal/arm64/water-reminder-primary.swiftdeps"
+  },
+  "/Users/kartik/Documents/water-reminder/build/Build/Intermediates.noindex/water-reminder.build/Release/water-reminder.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "index-unit-output-path" : "/water-reminder.build/Release/water-reminder.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/kartik/Documents/water-reminder/build/Build/Intermediates.noindex/water-reminder.build/Release/water-reminder.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/kartik/Documents/water-reminder/build/Build/Intermediates.noindex/water-reminder.build/Release/water-reminder.build/Objects-normal/arm64/GeneratedAssetSymbols.o"
+  },
+  "/Users/kartik/Documents/water-reminder/water-reminder/ActivityMonitor.swift" : {
+    "index-unit-output-path" : "/water-reminder.build/Release/water-reminder.build/Objects-normal/arm64/ActivityMonitor.o",
+    "llvm-bc" : "/Users/kartik/Documents/water-reminder/build/Build/Intermediates.noindex/water-reminder.build/Release/water-reminder.build/Objects-normal/arm64/ActivityMonitor.bc",
+    "object" : "/Users/kartik/Documents/water-reminder/build/Build/Intermediates.noindex/water-reminder.build/Release/water-reminder.build/Objects-normal/arm64/ActivityMonitor.o"
+  },
+  "/Users/kartik/Documents/water-reminder/water-reminder/MenuView.swift" : {
+    "index-unit-output-path" : "/water-reminder.build/Release/water-reminder.build/Objects-normal/arm64/MenuView.o",
+    "llvm-bc" : "/Users/kartik/Documents/water-reminder/build/Build/Intermediates.noindex/water-reminder.build/Release/water-reminder.build/Objects-normal/arm64/MenuView.bc",
+    "object" : "/Users/kartik/Documents/water-reminder/build/Build/Intermediates.noindex/water-reminder.build/Release/water-reminder.build/Objects-normal/arm64/MenuView.o"
+  },
+  "/Users/kartik/Documents/water-reminder/water-reminder/NotificationManager.swift" : {
+    "index-unit-output-path" : "/water-reminder.build/Release/water-reminder.build/Objects-normal/arm64/NotificationManager.o",
+    "llvm-bc" : "/Users/kartik/Documents/water-reminder/build/Build/Intermediates.noindex/water-reminder.build/Release/water-reminder.build/Objects-normal/arm64/NotificationManager.bc",
+    "object" : "/Users/kartik/Documents/water-reminder/build/Build/Intermediates.noindex/water-reminder.build/Release/water-reminder.build/Objects-normal/arm64/NotificationManager.o"
+  },
+  "/Users/kartik/Documents/water-reminder/water-reminder/ReminderTimer.swift" : {
+    "index-unit-output-path" : "/water-reminder.build/Release/water-reminder.build/Objects-normal/arm64/ReminderTimer.o",
+    "llvm-bc" : "/Users/kartik/Documents/water-reminder/build/Build/Intermediates.noindex/water-reminder.build/Release/water-reminder.build/Objects-normal/arm64/ReminderTimer.bc",
+    "object" : "/Users/kartik/Documents/water-reminder/build/Build/Intermediates.noindex/water-reminder.build/Release/water-reminder.build/Objects-normal/arm64/ReminderTimer.o"
+  },
+  "/Users/kartik/Documents/water-reminder/water-reminder/WaterReminderApp.swift" : {
+    "index-unit-output-path" : "/water-reminder.build/Release/water-reminder.build/Objects-normal/arm64/WaterReminderApp.o",
+    "llvm-bc" : "/Users/kartik/Documents/water-reminder/build/Build/Intermediates.noindex/water-reminder.build/Release/water-reminder.build/Objects-normal/arm64/WaterReminderApp.bc",
+    "object" : "/Users/kartik/Documents/water-reminder/build/Build/Intermediates.noindex/water-reminder.build/Release/water-reminder.build/Objects-normal/arm64/WaterReminderApp.o"
+  }
+}

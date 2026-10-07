@@ -1,0 +1,12 @@
+{
+  "/Users/kartik/Documents/water-reminder/water-reminder/ActivityMonitor.swift" : {
+    "abi-baseline-json" : "/Users/kartik/Documents/water-reminder/build/Build/Intermediates.noindex/water-reminder.build/Release/water-reminder.build/Objects-normal/x86_64/water_reminder.abi.json",
+    "const-values" : "/Users/kartik/Documents/water-reminder/build/Build/Intermediates.noindex/water-reminder.build/Release/water-reminder.build/Objects-normal/x86_64/water-reminder-primary.swiftconstvalues",
+    "dependencies" : "/Users/kartik/Documents/water-reminder/build/Build/Intermediates.noindex/water-reminder.build/Release/water-reminder.build/Objects-normal/x86_64/water-reminder-primary.d",
+    "diagnostics" : "/Users/kartik/Documents/water-reminder/build/Build/Intermediates.noindex/water-reminder.build/Release/water-reminder.build/Objects-normal/x86_64/water-reminder-primary.dia",
+    "objc-header" : "/Users/kartik/Documents/water-reminder/build/Build/Intermediates.noindex/water-reminder.build/Release/water-reminder.build/Objects-normal/x86_64/water_reminder-Swift.h",
+    "swiftdoc" : "/Users/kartik/Documents/water-reminder/build/Build/Intermediates.noindex/water-reminder.build/Release/water-reminder.build/Objects-normal/x86_64/water_reminder.swiftdoc",
+    "swiftmodule" : "/Users/kartik/Documents/water-reminder/build/Build/Intermediates.noindex/water-reminder.build/Release/water-reminder.build/Objects-normal/x86_64/water_reminder.swiftmodule",
+    "swiftsourceinfo" : "/Users/kartik/Documents/water-reminder/build/Build/Intermediates.noindex/water-reminder.build/Release/water-reminder.build/Objects-normal/x86_64/water_reminder.swiftsourceinfo"
+  }
+}

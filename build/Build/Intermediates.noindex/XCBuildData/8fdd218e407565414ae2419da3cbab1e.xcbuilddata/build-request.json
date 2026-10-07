@@ -1,0 +1,66 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildOnly"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "cbba8e3a89462419dbc1f8a581723c761914235e1b9797624503ca58c7cb09cc"
+    }
+  ],
+  "containerPath" : "/Users/kartik/Documents/water-reminder/water-reminder.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx26.2",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/kartik/Documents/water-reminder/build/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/kartik/Documents/water-reminder/build/Build/Products",
+      "derivedDataPath" : "/Users/kartik/Documents/water-reminder/build",
+      "indexDataStoreFolderPath" : "/Users/kartik/Documents/water-reminder/build/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/kartik/Documents/water-reminder/build/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/kartik/Documents/water-reminder/build/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Release",
+    "overrides" : {
+      "commandLine" : {
+        "table" : {
+          "CODE_SIGN_IDENTITY" : "-",
+          "CODE_SIGN_STYLE" : "Manual",
+          "DEVELOPMENT_TEAM" : ""
+        }
+      },
+      "synthesized" : {
+        "table" : {
+          "ACTION" : "build",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "YES",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

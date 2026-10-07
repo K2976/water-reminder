@@ -1,0 +1,16 @@
+{
+  "source": "/Users/kartik/Documents/water-reminder/water-reminder/WaterReminderApp.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Water Reminder",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 11
+        }
+      }
+    ]
+  },
+  "version": 1
+}

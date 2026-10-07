@@ -1,0 +1,56 @@
+{
+  "source": "/Users/kartik/Documents/water-reminder/water-reminder/MenuView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "I drank water",
+        "location": {
+          "startingColumn": 16,
+          "startingLine": 13
+        }
+      },
+      {
+        "comment": "",
+        "key": "Interval",
+        "location": {
+          "startingColumn": 16,
+          "startingLine": 19
+        }
+      },
+      {
+        "comment": "",
+        "key": "Pause reminders",
+        "location": {
+          "startingColumn": 16,
+          "startingLine": 26
+        }
+      },
+      {
+        "comment": "",
+        "key": "Launch at login",
+        "location": {
+          "startingColumn": 16,
+          "startingLine": 33
+        }
+      },
+      {
+        "comment": "",
+        "key": "Quit",
+        "location": {
+          "startingColumn": 16,
+          "startingLine": 40
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld min",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 21
+        }
+      }
+    ]
+  },
+  "version": 1
+}
